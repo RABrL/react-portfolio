@@ -11,7 +11,7 @@ export default function Header () {
         <h3>Robinson Brito</h3>
         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium quis animi esse eius amet, expedita ea quia porro molestiae repellat earum? Velit recusandae eum laboriosam? Facilis velit nesciunt est debitis?</p>
         <div className="header_cta">
-          <a href="#contact" className='btn primary'>Let's Talk</a>
+          <a href="#contact" className='btn primary'>Let&#39;s Talk</a>
           <a href="#portfolio" className='btn ligth'>My work</a>
         </div>
         <div className="header_socials">
