@@ -30,6 +30,7 @@
       }
     ], //should add ".ts" if typescript project
     "no-unused-vars": "warn",
-    "no-console": "warn"
+    "no-console": "warn",
+    "react/prop-types": "off"
   }
 }
